@@ -31,8 +31,8 @@ It uses historical stock price data to forecast the next 30 days' closing prices
 ## ▶️ How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/stock-price-prediction-lstm.git
-   cd stock-price-prediction-lstm
+   git clone https://github.com/JMR-Madhab/Stock-Price-Prediction-Using-LSTM.git
+   cd Stock-Price-Prediction-Using-LSTM
 
 2. Install dependencies:
    pip install -r requirements.txt
